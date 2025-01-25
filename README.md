@@ -20,7 +20,7 @@ You can Download the latest Dev from [our Discord](https://discord.gg/woweepaw)!
 Sure thing. If you've created a fun file for a Game, not already existing, push it into the PR's :3
 
 ### File Explanation
-`json
+``` 
     {
       "TempChannelPointsID": "", <- Never touch, it will get created and removed if your Twitch Channel supports Channelpoints
       "ChannelPointsCosts": 500, <- Change to your liking (the costs for this Redemption)
@@ -47,4 +47,4 @@ Sure thing. If you've created a fun file for a Game, not already existing, push 
       "Sound": "C:\\Users\\WoweePaw\\Music\\KaefiBOT-Sounds\\tv-total.mp3", <- Path to a soundfile on your Computer (backspace needs to get escaped properly)
       "Message": "/me Ducken, Rutschen... Deal with it!" <- Message the Chatbot will send on this Redemption/Command
     }
-`
+```
