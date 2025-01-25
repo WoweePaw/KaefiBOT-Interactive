@@ -1,0 +1,91 @@
+{
+  "Name": "Tomb Raider: UnderPAW",
+  "Description": "Sabotiere das Gameplay",
+  "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
+  "InteractiveKeys": [
+    {
+      "Command": "!CTRL",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_LCONTROL",
+          "Key": 29,
+          "InputType": 1,
+          "HoldTime": 3
+        }
+      ],
+      "Message": "/me Okay! Halten wir uns bedeckt..."
+    },
+    {
+      "Command": "!ESC",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_ESCAPE",
+          "Key": 1,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me Ist mir auch zu aufregend..."
+    },
+    {
+      "Command": "!PDA",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_TAB",
+          "Key": 15,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me Was war nochmal die Mission?"
+    },
+    {
+      "Command": "!R",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_R",
+          "Key": 19,
+          "InputType": 1,
+          "HoldTime": 2
+        }
+      ],
+      "Message": "/me Waffenwechsel eingeleitet!"
+    },
+    {
+      "Command": "!LICHT",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_F",
+          "Key": 33,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me Licht an oder Licht aus? Was auch immer... du hast entschieden!"
+    },
+    {
+      "Command": "!Q",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_Q",
+          "Key": 16,
+          "InputType": 1,
+          "HoldTime": 2
+        }
+      ],
+      "Message": "/me Können wir das Greifen?"
+    }
+  ]
+}

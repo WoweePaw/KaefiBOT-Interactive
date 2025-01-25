@@ -1,0 +1,145 @@
+{
+  "Name": "Super Animal Pawyale",
+  "Description": "Wheeeeeeeeeeee",
+  "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
+  "InteractiveKeys": [
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "",
+      "Command": "🎮 RunningPAW",
+      "KeyCooldown": 0,
+      "KeySelectMode": 1,
+      "KeysToPress": [
+        {
+          "Name": "DIK_W",
+          "Key": 17,
+          "InputType": 1,
+          "HoldTime": 5
+        },
+        {
+          "Name": "DIK_A",
+          "Key": 30,
+          "InputType": 1,
+          "HoldTime": 5
+        },
+        {
+          "Name": "DIK_S",
+          "Key": 31,
+          "InputType": 1,
+          "HoldTime": 5
+        },
+        {
+          "Name": "DIK_D",
+          "Key": 32,
+          "InputType": 1,
+          "HoldTime": 5
+        }
+      ],
+      "Message": "/me Wheeeeeeeeeeee!!!"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "",
+      "Command": "🎮 ESC",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_ESC",
+          "Key": 1,
+          "InputType": 1,
+          "HoldTime": 5
+        }
+      ],
+      "Message": "/me ICH HALTE DIE AUFREGUNG NICHT AWUUUS!"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "",
+      "Command": "🎮 Waffenwechsel",
+      "KeyCooldown": 0,
+      "KeySelectMode": 1,
+      "KeysToPress": [
+        {
+          "Name": "",
+          "Key": 2,
+          "InputType": 1,
+          "HoldTime": 0
+        },
+        {
+          "Name": "",
+          "Key": 3,
+          "InputType": 1,
+          "HoldTime": 0
+        },
+        {
+          "Name": "",
+          "Key": 4,
+          "InputType": 1,
+          "HoldTime": 0
+        },
+        {
+          "Name": "",
+          "Key": 5,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "Message": "/me Pawtastischer Waffenwechsel eingeleitet..."
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "",
+      "Command": "🎮 SneakyPAW",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_LSTRG",
+          "Key": 29,
+          "InputType": 1,
+          "HoldTime": 3
+        }
+      ],
+      "Message": "/me Pssst! Wir müssen auf leisen Paws laufen..."
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "",
+      "Command": "🎮 Emote",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_E",
+          "Key": 47,
+          "InputType": 1,
+          "HoldTime": 3
+        }
+      ],
+      "Message": "/me Haben wir Zeit für einen Super Dancemove?"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Repariere meine Rüstung (sofern möglich)",
+      "Command": "🎮 RePAWrieren",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_C",
+          "Key": 46,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "Name": "Call of Derpy™: Modern Interactive",
+  "Description": "Dieses Chaos wurde heraufbeschworen vom #Rudel",
+  "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
+  "InteractiveKeys": [
+    {
+      "Command": "🎮 SneakPAW",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Key": 46,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me Schnell! Duck dich!"
+    },
+    {
+      "Command": "🎮 Granate werfen!",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Key": 34,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "Message": "/me G wie Granate?!"
+    },
+    {
+      "Command": "🎮 Equipment Taste",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Key": 16,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "Message": "/me Drückt die Q-Taste, Duh!"
+    },
+    {
+      "Command": "🎮 Waffenmodus wechseln",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Key": 48,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me Wechsele Waffenmodus!"
+    },
+    {
+      "Command": "🎮 Nächste Waffe",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Key": 2,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "Message": "/me Nächste Waffe!"
+    }
+  ]
+}

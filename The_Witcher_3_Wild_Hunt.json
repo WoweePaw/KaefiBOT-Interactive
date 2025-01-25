@@ -1,0 +1,133 @@
+{
+  "Name": "Wowee von Riva - The Woweeitcher Interactive",
+  "Description": "Hrmpf!",
+  "CreatedBy": "WoweePaw | https://twitch.tv/woweepaw",
+  "InteractiveKeys": [
+    {
+      "Command": "🎮 RunningPAW",
+      "KeyCooldown": 0,
+      "KeysToPress": [
+        {
+          "Key": 17,
+          "InputType": 1,
+          "HoldTime": 5
+        },
+        {
+          "Key": 42,
+          "InputType": 1,
+          "HoldTime": 3
+        }
+      ],
+      "Message": "Spürst du den Wind in deinen Haaren?"
+    },
+    {
+      "Command": "🎮 ESC",
+      "KeyCooldown": 0,
+      "KeysToPress": [
+        {
+          "Key": 1,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "Ich halte diese Aufregung nicht aus..."
+    },
+    {
+      "Command": "🎮 Zaubern",
+      "KeyCooldown": 0,
+      "KeysToPress": [
+        {
+          "Key": 45,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": ":photograph *schnipp*"
+    },
+    {
+      "Command": "🎮 Aard",
+      "KeyCooldown": 1,
+      "KeysToPress": [
+        {
+          "Key": 4,
+          "InputType": 1,
+          "HoldTime": 3
+        },
+        {
+          "Key": 16,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": ":YellowSuperSaiya Kame... HAMEEEE.... *Hatschi* :yellowshockwave"
+    },
+    {
+      "Command": "🎮 Yrden",
+      "KeyCooldown": 1,
+      "KeysToPress": [
+        {
+          "Key": 5,
+          "InputType": 1,
+          "HoldTime": 3
+        },
+        {
+          "Key": 16,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": ":YellowSuperSaiya Dieser Geist läuft nirgendwo hin... :salty"
+    },
+    {
+      "Command": "🎮 Igni",
+      "KeyCooldown": 1,
+      "KeysToPress": [
+        {
+          "Key": 6,
+          "InputType": 1,
+          "HoldTime": 3
+        },
+        {
+          "Key": 16,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": ":YellowSuperSaiya geht es nur mir so, oder ist Geralt gerade heißer als sonst?"
+    },
+    {
+      "Command": "🎮 Quen",
+      "KeyCooldown": 1,
+      "KeysToPress": [
+        {
+          "Key": 7,
+          "InputType": 1,
+          "HoldTime": 3
+        },
+        {
+          "Key": 16,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": ":YellowSuperSaiya Schadensblock over 9k! :mask"
+    },
+    {
+      "Command": "🎮 Axii",
+      "KeyCooldown": 1,
+      "KeysToPress": [
+        {
+          "Key": 8,
+          "InputType": 1,
+          "HoldTime": 3
+        },
+        {
+          "Key": 16,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": ":YellowSuperSaiya Mein Geist zu deinem Geist. Meine Gedanken zu deinen Gedanken. :holy"
+    }
+  ]
+}

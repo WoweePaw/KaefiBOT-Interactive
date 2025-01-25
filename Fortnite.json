@@ -1,0 +1,102 @@
+{
+  "Name": "FortNO!",
+  "Description": "Ja was wohl? Folter eben!",
+  "CreatedBy": "KamiKathrin | https://twitch.tv/KamiKathrin",
+  "InteractiveKeys": [
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Ducken oder Rutschen",
+      "Command": "🎮 SneakyPaw",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_LCONTROL",
+          "Key": 29,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "OSC": [],
+      "Sound": "",
+      "Message": "/me Ducken, Rutschen... Deal with it!"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
+      "Command": "🎮 Nachladen",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_R",
+          "Key": 19,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "OSC": [],
+      "Sound": "",
+      "Message": "/me Schon nachgeladen?"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Wechsel auf das Erntewerkzeug",
+      "Command": "🎮 Erntewerkzeug",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_1",
+          "Key": 2,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "OSC": [],
+      "Sound": "",
+      "Message": "/me Bau doch mal was ab!"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Ein Blick auf die Karte",
+      "Command": "🎮 Karte",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_M",
+          "Key": 50,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "OSC": [],
+      "Sound": "",
+      "Message": "/me Wo sind wir?"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Ein Blick ins Inventar",
+      "Command": "🎮 Inventar",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_I",
+          "Key": 23,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "OSC": [],
+      "Sound": "",
+      "Message": "/me Was hast du dabei?"
+    }
+  ]
+}

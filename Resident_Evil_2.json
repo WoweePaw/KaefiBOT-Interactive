@@ -1,0 +1,100 @@
+{
+  "Name": "Resident more Evil 2",
+  "Description": "Its evil.",
+  "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
+  "InteractiveKeys": [
+    {
+      "TempChannelPointsID": "",
+      "Command": "🎮 Reloaaading",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_R",
+          "Key": 19,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me Lade nach!"
+    },
+    {
+      "TempChannelPointsID": "",
+      "Command": "🎮 Messer ziehen",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_SPACE",
+          "Key": 57,
+          "InputType": 1,
+          "HoldTime": 3
+        }
+      ],
+      "Message": "/me Wir messern den jetzt (wenn vorhanden)!"
+    },
+    {
+      "TempChannelPointsID": "",
+      "Command": "🎮 Random Waffe",
+      "KeyCooldown": 0,
+      "KeySelectMode": 1,
+      "KeysToPress": [
+        {
+          "Name": "DIK_1",
+          "Key": 2,
+          "InputType": 1,
+          "HoldTime": 1
+        },
+        {
+          "Name": "DIK_2",
+          "Key": 3,
+          "InputType": 1,
+          "HoldTime": 1
+        },
+        {
+          "Name": "DIK_3",
+          "Key": 4,
+          "InputType": 1,
+          "HoldTime": 1
+        },
+        {
+          "Name": "DIK_4",
+          "Key": 5,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me Wähle zufällige Waffe aus..."
+    },
+    {
+      "TempChannelPointsID": "",
+      "Command": "🎮 360° Noscope",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_Q",
+          "Key": 16,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me War da was??"
+    },
+    {
+      "TempChannelPointsID": "",
+      "Command": "🎮 PAUSE!",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_P",
+          "Key": 25,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me Ich halte diese Aufregung nicht mehr aus..."
+    }
+  ]
+}

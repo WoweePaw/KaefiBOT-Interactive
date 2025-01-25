@@ -1,0 +1,108 @@
+{
+  "Name": "Doom Interactive Rage Edition™",
+  "Description": "Hell let loose!",
+  "CreatedBy": "Trebius522 | https://twitch.tv/trebius522",
+  "InteractiveKeys": [
+    {
+      "Command": "panicBasket",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Key": 42,
+          "InputType": 1,
+          "HoldTime": 1
+        },
+        {
+          "Key": 42,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "Double Dash!"
+    },
+    {
+      "Command": "PunchTrees",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Key": 18,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "Kapow!"
+    },
+    {
+      "Command": "riPepperonis",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Key": 46,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "Ratatatatata!"
+    },
+    {
+      "Command": "PowerUpR",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Key": 19,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "Burn Baby Burn!"
+    },
+    {
+      "Command": "NotLikeThis",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Key": 29,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "Shots were Fired!"
+    },
+    {
+      "Command": "bleedPurple",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Key": 16,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "Oh no, you didnt!"
+    },
+    {
+      "Command": "twitchRaid",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Key": 57,
+          "InputType": 1,
+          "HoldTime": 1
+        },
+        {
+          "Key": 57,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "Woopsy Doodles!"
+    }
+  ]
+}

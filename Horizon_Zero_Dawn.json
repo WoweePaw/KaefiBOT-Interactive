@@ -1,0 +1,109 @@
+{
+  "Name": "Horizon Zero Progress",
+  "Description": "ALOY!!!!!!!!",
+  "CreatedBy": "WoweePaw - https://twitch.tv/WoweePaw",
+  "InteractiveKeys": [
+    {
+      "Command": "FeelsFastMan",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_CAPSLOCK",
+          "Key": 58,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "Message": "/me Spürst du die Zeit, welche verfliegt?"
+    },
+    {
+      "Command": "MonkaS",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_C",
+          "Key": 46,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me Duck dich!"
+    },
+    {
+      "Command": "WolfComfy",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_H",
+          "Key": 35,
+          "InputType": 1,
+          "HoldTime": 5
+        }
+      ],
+      "Message": "/me Immersion... de-/aktiviert!"
+    },
+    {
+      "Command": "monkaBIG",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_M",
+          "Key": 50,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me Wo sind wir??!!"
+    },
+    {
+      "Command": "Monkagun",
+      "KeyCooldown": 1,
+      "KeySelectMode": 1,
+      "KeysToPress": [
+        {
+          "Name": "DIK_1",
+          "Key": 2,
+          "InputType": 1,
+          "HoldTime": 1
+        },
+        {
+          "Name": "DIK_2",
+          "Key": 3,
+          "InputType": 1,
+          "HoldTime": 1
+        },
+        {
+          "Name": "DIK_3",
+          "Key": 4,
+          "InputType": 1,
+          "HoldTime": 1
+        },
+        {
+          "Name": "DIK_4",
+          "Key": 5,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me Waffenwechsel eingeleitet..."
+    },
+    {
+      "Command": "monkaRude",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_ESCAPE",
+          "Key": 1,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me Es...kappe!"
+    }
+  ]
+}

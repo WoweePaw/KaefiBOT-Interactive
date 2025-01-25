@@ -1,0 +1,91 @@
+{
+  "Name": "Shadowo of the Raider Tomb",
+  "Description": "Ein bisschen interaktiver als Rise of the Duwumb Raider",
+  "CreatedBy": "WoweePaw | https://twitch.tv/woweepaw",
+  "InteractiveKeys": [
+    {
+      "Command": "monkaRude",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_C",
+          "Key": 46,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me Das hab ich nicht kommen sehen..."
+    },
+    {
+      "Command": "monkaWolf",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_ESCAPE",
+          "Key": 1,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me ICH HALTE DIESE AUFREGUNG NICHT AAAAUUUUSSS...."
+    },
+    {
+      "Command": "monkaHandsUp",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_SPACE",
+          "Key": 57,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me Hüpf Lara, Hüpf!"
+    },
+    {
+      "Command": "Monkagun",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_ADD",
+          "Key": 78,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me Wechsel zur nächsten Waffe, Croft!"
+    },
+    {
+      "Command": "monkaSleeper",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_LCONTROL",
+          "Key": 29,
+          "InputType": 1,
+          "HoldTime": 5
+        }
+      ],
+      "Message": "/me Stay a while and listen!"
+    },
+    {
+      "Command": "!E",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_E",
+          "Key": 18,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me E!"
+    }
+  ]
+}

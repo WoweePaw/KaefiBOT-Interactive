@@ -1,0 +1,133 @@
+{
+  "Name": "Rocket Torture",
+  "Description": "Fährst du Vorwärts oder ist Rückwärts bereits das neue Vorwärts?!",
+  "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
+  "InteractiveKeys": [
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "",
+      "Command": "🎮 Rückwärts, rückwärts",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_S",
+          "Key": 31,
+          "InputType": 1,
+          "HoldTime": 5
+        }
+      ],
+      "Sound": "",
+      "Message": "Vorwärts ist jetzt Rückwärts..."
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "",
+      "Command": "🎮 Ballkamera an/aus",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "",
+          "Key": 57,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "Sound": "",
+      "Message": "WO IST DER BALL?"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "",
+      "Command": "🎮 Springen",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "",
+          "Key": 257,
+          "InputType": 0,
+          "HoldTime": 0
+        }
+      ],
+      "Sound": "",
+      "Message": "SPAAAAAAAAAAAACE"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "",
+      "Command": "🎮 Kamera (links)",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "",
+          "Key": 75,
+          "InputType": 1,
+          "HoldTime": 5
+        }
+      ],
+      "Sound": "",
+      "Message": "War da was?"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "",
+      "Command": "🎮 Kamera (rechts)",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "",
+          "Key": 77,
+          "InputType": 1,
+          "HoldTime": 5
+        }
+      ],
+      "Sound": "",
+      "Message": "War da was?"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "",
+      "Command": "🎮 DrivingPAW",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_W",
+          "Key": 17,
+          "InputType": 1,
+          "HoldTime": 5
+        }
+      ],
+      "Sound": "",
+      "Message": "Spürst du den Wind in deinen Haaren?"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "",
+      "Command": "🎮 ESC",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_ESC",
+          "Key": 1,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Sound": "",
+      "Message": "Ich halte diese Aufregung nicht aus..."
+    }
+  ]
+}

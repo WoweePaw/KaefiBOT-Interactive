@@ -1,0 +1,64 @@
+{
+  "Name": "World of Warcraft aber halt Interaktiv",
+  "Description": "War da Craft?",
+  "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
+  "InteractiveKeys": [
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
+      "Command": "🎮 B!",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_B",
+          "Key": 48,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "OSC": [],
+      "Sound": "",
+      "Message": "Räum mal die Taschen auf..."
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
+      "Command": "🎮 Eins",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_1",
+          "Key": 2,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "OSC": [],
+      "Sound": "",
+      "Message": ""
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
+      "Command": "🎮 Zwei",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_2",
+          "Key": 3,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "OSC": [],
+      "Sound": "",
+      "Message": ""
+    }
+  ]
+}

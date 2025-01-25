@@ -1,0 +1,67 @@
+{
+  "Name": "Lara mal wieder Croft in Teil 6. Steam Bugfest Edition",
+  "Description": "WIESO?!",
+  "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
+  "InteractiveKeys": [
+    {
+      "TempChannelPointsID": "",
+      "Command": "🎮 Spring!",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_LALT",
+          "Key": 56,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me Hüpf Lara! Hüpf!"
+    },
+    {
+      "TempChannelPointsID": "",
+      "Command": "🎮 Ducken",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_PERIOD",
+          "Key": 52,
+          "InputType": 1,
+          "HoldTime": 2
+        }
+      ],
+      "Message": "/me Wo ist meine Kontaktlinse hin??!"
+    },
+    {
+      "TempChannelPointsID": "",
+      "Command": "🎮 SneakPAW",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_RETURN",
+          "Key": 28,
+          "InputType": 1,
+          "HoldTime": 2
+        }
+      ],
+      "Message": "/me Wir müssen hier leise sein..."
+    },
+    {
+      "TempChannelPointsID": "",
+      "Command": "🎮 Rollen",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_COMMA",
+          "Key": 51,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me Do a Lara-Roll!"
+    }
+  ]
+}

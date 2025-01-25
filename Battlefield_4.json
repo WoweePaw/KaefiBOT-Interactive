@@ -1,0 +1,77 @@
+{
+  "Name": "Interactive Field 4",
+  "Description": "Dieses Chaos wurde heraufbeschworen vom #Rudel",
+  "CreatedBy": "WoweePaw | https://twitch.tv/woweepaw",
+  "InteractiveKeys": [
+    {
+      "Command": "monkaSleeper",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_Y",
+          "Key": 44,
+          "InputType": 1,
+          "HoldTime": 5
+        }
+      ],
+      "Message": "/me Schnell! Duck dich!"
+    },
+    {
+      "Command": "monkaHandsUp",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "",
+          "Key": 34,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me G wie Granate?!"
+    },
+    {
+      "Command": "monkaBIG",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "",
+          "Key": 16,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me Drückt die Q-Taste, Duh!"
+    },
+    {
+      "Command": "monkaRude",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_V",
+          "Key": 47,
+          "InputType": 1,
+          "HoldTime": 5
+        }
+      ],
+      "Message": "/me Wechsele Waffenmodus!"
+    },
+    {
+      "Command": "Monkagun",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_R",
+          "Key": 19,
+          "InputType": 1,
+          "HoldTime": 5
+        }
+      ],
+      "Message": "/me RELOADING!!!"
+    }
+  ]
+}

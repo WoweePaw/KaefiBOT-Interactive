@@ -1,0 +1,94 @@
+{
+  "Name": "zeDivision 2",
+  "Description": "Are we the baddies?",
+  "CreatedBy": "WoweePaw | https://twitch.tv/woweepaw",
+  "InteractiveKeys": [
+    {
+      "Command": "FeelsFastMan",
+      "KeyCooldown": 0,
+      "KeysToPress": [
+        {
+          "Key": 17,
+          "InputType": 1,
+          "HoldTime": 5
+        },
+        {
+          "Key": 42,
+          "InputType": 1,
+          "HoldTime": 3
+        }
+      ],
+      "Message": "/me Spürst du den Wind in deinen Haaren?"
+    },
+    {
+      "Command": "ariW",
+      "KeyCooldown": 0,
+      "KeysToPress": [
+        {
+          "Key": 31,
+          "InputType": 1,
+          "HoldTime": 5
+        }
+      ],
+      "Message": "/me Vorwärts ist jetzt Rückwärts..."
+    },
+    {
+      "Command": "Monkagun",
+      "KeyCooldown": 1,
+      "KeysToPress": [
+        {
+          "Key": 4,
+          "InputType": 1,
+          "HoldTime": 3
+        }
+      ],
+      "Message": "/me Wechsel auf Handfeuerwaffe."
+    },
+    {
+      "Command": "notsquishY",
+      "KeyCooldown": 0,
+      "KeysToPress": [
+        {
+          "Key": 19,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me MonkaS TIME TO RELOAD!"
+    },
+    {
+      "Command": "Q",
+      "KeyCooldown": 0,
+      "KeysToPress": [
+        {
+          "Key": 16,
+          "InputType": 1,
+          "HoldTime": 1
+        },
+        {
+          "Key": 16,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "Message": "/me Setze Agent-Fertigkeit 1 ein."
+    },
+    {
+      "Command": "E",
+      "KeyCooldown": 0,
+      "KeysToPress": [
+        {
+          "Key": 18,
+          "InputType": 1,
+          "HoldTime": 1
+        },
+        {
+          "Key": 18,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "Message": "/me Setze Agent-Fertigkeit 2 ein."
+    }
+  ]
+}

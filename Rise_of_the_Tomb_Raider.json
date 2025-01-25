@@ -1,0 +1,161 @@
+{
+  "Name": "Rise of the Tomb Raider",
+  "Description": "Wohl eher: Rise of the Derp Raider",
+  "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
+  "InteractiveKeys": [
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
+      "Command": "!jump",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_SPACE",
+          "Key": 57,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "Hüpf Lara! HÜPF! :omg"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
+      "Command": "!crouch",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_C",
+          "Key": 46,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "Lara made a whoopsie :rip"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
+      "Command": "!esc",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_ESCAPE",
+          "Key": 1,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "Das ist viel zu aufregend... wir machen kurz Pause, okay?! :shocked"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
+      "Command": "!nachladen",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_R",
+          "Key": 19,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "Diese Waffe ist nun wieder nachgeladen! :thumb"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
+      "Command": "!schulter",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_LSHIFT",
+          "Key": 42,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "So sehen wir mehr... glaube ich! :look"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Diese Aktion betätigt einen Button im Spiel",
+      "Command": "!waffe",
+      "KeyCooldown": 0,
+      "KeySelectMode": 1,
+      "KeysToPress": [
+        {
+          "Name": "DIK_1",
+          "Key": 2,
+          "InputType": 1,
+          "HoldTime": 1
+        },
+        {
+          "Name": "DIK_2",
+          "Key": 3,
+          "InputType": 1,
+          "HoldTime": 1
+        },
+        {
+          "Name": "DIK_3",
+          "Key": 4,
+          "InputType": 1,
+          "HoldTime": 1
+        },
+        {
+          "Name": "DIK_4",
+          "Key": 5,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "Welche Waffe es wohl dieses Mal wird? :think"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 8000,
+      "ChannelPointsDescription": "ZzzzzZzzz...",
+      "Command": "PillowPAW",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_NUMPAD9",
+          "Key": 73,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "Message": ":sneaky"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 8000,
+      "ChannelPointsDescription": "Wenn die Musik mal wieder kickt...",
+      "Command": "WoweeJAM",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_NUMPAD3",
+          "Key": 81,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "Message": ":Cheerup"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "Name": "Tomb Raider 2 - Interactive Hell",
+  "Description": "Einfach zum Kotzen xD",
+  "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
+  "InteractiveKeys": [
+    {
+      "TempChannelPointsID": "",
+      "Command": "!SHIFT",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_LSHIFT",
+          "Key": 42,
+          "InputType": 1,
+          "HoldTime": 3
+        }
+      ],
+      "Message": "/me Auf dem Flur wird nicht gerannt!"
+    },
+    {
+      "TempChannelPointsID": "",
+      "Command": "!ALT",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_LALT",
+          "Key": 56,
+          "InputType": 1,
+          "HoldTime": 2
+        }
+      ],
+      "Message": "/me Hüpf Wowee... Hüpf!!"
+    },
+    {
+      "TempChannelPointsID": "",
+      "Command": "!CTRL",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_LCONTROL",
+          "Key": 29,
+          "InputType": 1,
+          "HoldTime": 2
+        }
+      ],
+      "Message": "/me Wird schon irgendwas machen..."
+    },
+    {
+      "TempChannelPointsID": "",
+      "Command": "!LOOK",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_NUMPAD0",
+          "Key": 82,
+          "InputType": 1,
+          "HoldTime": 3
+        }
+      ],
+      "Message": "/me #Sieh-Dich-Um-PAW"
+    },
+    {
+      "TempChannelPointsID": "",
+      "Command": "!SPACE",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_SPACE",
+          "Key": 57,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me Hol die Waffen raus (oder stecke sie weg)"
+    },
+    {
+      "TempChannelPointsID": "",
+      "Command": "!LICHT",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_SLASH",
+          "Key": 53,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me Wir sehen doch nichts D:"
+    },
+    {
+      "TempChannelPointsID": "",
+      "Command": "!BARREL",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_NUMPAD5",
+          "Key": 76,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me #Roll-Dich-Paw"
+    }
+  ]
+}

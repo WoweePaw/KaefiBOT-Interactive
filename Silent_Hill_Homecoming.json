@@ -1,0 +1,77 @@
+{
+  "Name": "Ach ich weiß doch auch nicht...",
+  "Description": "Das Game!",
+  "CreatedBy": "WoweePaw | https://twitch.tv/WoweePaw",
+  "InteractiveKeys": [
+    {
+      "Command": "monkaChrist",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_LSHIFT",
+          "Key": 42,
+          "InputType": 1,
+          "HoldTime": 2
+        }
+      ],
+      "Message": "/me Mögest du mein neues Ziel sein... oder doch nicht..."
+    },
+    {
+      "Command": "MonkaS",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_R",
+          "Key": 19,
+          "InputType": 1,
+          "HoldTime": 2
+        }
+      ],
+      "Message": "/me Reeeeeeeeeeloading"
+    },
+    {
+      "Command": "Monkagun",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_RBRACKET",
+          "Key": 27,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "Message": "/me Welche Waffe darf es sein?"
+    },
+    {
+      "Command": "wOlF",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_TAB",
+          "Key": 15,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "/me Wo muss ich lang?"
+    },
+    {
+      "Command": "BirbRave",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_F",
+          "Key": 33,
+          "InputType": 1,
+          "HoldTime": 2
+        }
+      ],
+      "Message": "/me Brauchen wir die noch?"
+    }
+  ]
+}

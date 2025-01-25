@@ -1,0 +1,151 @@
+{
+  "Name": "",
+  "Description": "",
+  "CreatedBy": "",
+  "InteractiveKeys": [
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Der Escabe-Button wird betätigt.",
+      "Command": "Escape",
+      "KeyCooldown": 60,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_ESCAPE",
+          "Key": 1,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Sound": "D:\\Twitch Overlay\\Iridos-Series-Premium-DE\\Iridos-Series-Premium-DE\\Files\\Alert-Sounds\\Hey wha happen.mp3",
+      "Message": "HALT STOPP!"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Im Hauptbildschirm wird das Spiel gestartet.",
+      "Command": "Spielen!",
+      "KeyCooldown": 60,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_SPACE",
+          "Key": 57,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Sound": "D:\\Twitch Overlay\\Iridos-Series-Premium-DE\\Iridos-Series-Premium-DE\\Files\\Alert-Sounds\\Mario Kart Start.mp3",
+      "Message": "Lets go!"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Im Hauptbildschirm kann auf die Quests zugegriffen werden",
+      "Command": "Quests",
+      "KeyCooldown": 60,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_F",
+          "Key": 33,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Sound": "D:\\Twitch Overlay\\Iridos-Series-Premium-DE\\Iridos-Series-Premium-DE\\Files\\Alert-Sounds\\Do it just do it.mp3",
+      "Message": "Welche Quest?"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Im Hauptbildschirm kann der Spielmodus geändert werden",
+      "Command": "Spielmodus wechseln",
+      "KeyCooldown": 60,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_LCONTROL",
+          "Key": 29,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Sound": "D:\\Twitch Overlay\\Iridos-Series-Premium-DE\\Iridos-Series-Premium-DE\\Files\\Alert-Sounds\\frohes-schaffen.mp3",
+      "Message": "Anderer Modus bitte"
+    },
+       {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Im Hauptbildschirm kann ein Emote abgespielt werden",
+      "Command": "Emote 1",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_1",
+          "Key": 4,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Sound": "",
+      "Message": "Emote 1 please!"
+    },
+   {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Im Hauptbildschirm kann ein Emote abgespielt werden",
+      "Command": "Emote 2",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_2",
+          "Key": 4,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Sound": "",
+      "Message": "Emote 2 please!"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Im Hauptbildschirm kann ein Emote abgespielt werden",
+      "Command": "Emote 3",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_3",
+          "Key": 4,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Sound": "",
+      "Message": "Emote 3 please!"
+    },
+    {
+      "TempChannelPointsID": "",
+      "ChannelPointsCosts": 500,
+      "ChannelPointsDescription": "Im Hauptbildschirm kann ein Emote abgespielt werden",
+      "Command": "Emote 4",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Name": "DIK_4",
+          "Key": 5,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Sound": "",
+      "Message": "Emote 4 please!"
+    }
+  ]
+}

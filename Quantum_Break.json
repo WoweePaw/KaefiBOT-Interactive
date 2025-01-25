@@ -1,0 +1,74 @@
+{
+  "Name": "Quantum Owl",
+  "Description": "So viel Chaos in so wenig Zeit.",
+  "CreatedBy": "WoweePaw | https://twitch.tv/woweepaw",
+  "InteractiveKeys": [
+    {
+      "Command": "FeelsFastMan",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Key": 42,
+          "InputType": 1,
+          "HoldTime": 0
+        },
+        {
+          "Key": 42,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "Message": "/me Swoosh!"
+    },
+    {
+      "Command": "!jump",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Key": 57,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "Message": "/me Ich sagte: Hüpf!"
+    },
+    {
+      "Command": "monkaRude",
+      "KeyCooldown": 0,
+      "KeySelectMode": 1,
+      "KeysToPress": [
+        {
+          "Key": 2,
+          "InputType": 1,
+          "HoldTime": 0
+        },
+        {
+          "Key": 3,
+          "InputType": 1,
+          "HoldTime": 0
+        },
+        {
+          "Key": 4,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "Message": "/me Random Waffenwechsel initialisiert. (Nur im Kampf!)"
+    },
+    {
+      "Command": "feelsWholesome",
+      "KeyCooldown": 0,
+      "KeySelectMode": 0,
+      "KeysToPress": [
+        {
+          "Key": 29,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "Message": "/me I'll cover you... Sei vorsichtig mein Kind!"
+    }
+  ]
+}

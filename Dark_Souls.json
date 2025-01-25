@@ -1,0 +1,96 @@
+{
+  "Name": "Dork Souls™: Treb-I-Rage-ius Special Edition™",
+  "Description": "This is your ultimate torture. You think Dark Souls is hard (even with Mods)? Think again!",
+  "CreatedBy": "WoweePaw | https://twitch.tv/woweepaw",
+  "InteractiveKeys": [
+    {
+      "Command": "HerbPerve",
+      "KeyCooldown": 0,
+      "KeysToPress": [
+        {
+          "Key": 17,
+          "InputType": 1,
+          "HoldTime": 5
+        }
+      ],
+      "Message": "Trebi-I-Rage-ius"
+    },
+    {
+      "Command": "WubTF",
+      "KeyCooldown": 0,
+      "KeysToPress": [
+        {
+          "Key": 16,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "Wub de Dub"
+    },
+    {
+      "Command": "AngelThump",
+      "KeyCooldown": 0,
+      "KeysToPress": [
+        {
+          "Key": 1,
+          "InputType": 1,
+          "HoldTime": 0
+        }
+      ],
+      "Message": "Oh the Humanity!"
+    },
+    {
+      "Command": "SeriousSloth",
+      "KeyCooldown": 0,
+      "KeysToPress": [
+        {
+          "Key": 56,
+          "InputType": 1,
+          "HoldTime": 2
+        }
+      ],
+      "Message": "Things are going sloth"
+    },
+    {
+      "Command": "FeelsAmazingMan",
+      "KeyCooldown": 0,
+      "KeysToPress": [
+        {
+          "Key": 19,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "Please Staph!"
+    },
+    {
+      "Command": "BroBalt",
+      "KeyCooldown": 0,
+      "KeysToPress": [
+        {
+          "Key": 33,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "What is dis?!"
+    },
+    {
+      "Command": "ConcernDoge",
+      "KeyCooldown": 1,
+      "KeysToPress": [
+        {
+          "Key": 57,
+          "InputType": 1,
+          "HoldTime": 1
+        },
+        {
+          "Key": 57,
+          "InputType": 1,
+          "HoldTime": 1
+        }
+      ],
+      "Message": "What have you done?!"
+    }
+  ]
+}
