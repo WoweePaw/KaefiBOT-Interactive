@@ -20,7 +20,7 @@ You can Download the latest Dev from [our Discord](https://discord.gg/woweepaw)!
 Sure thing. If you've created a fun file for a Game, not already existing, push it into the PR's :3
 
 ### File Explanation
-`
+`json
     {
       "TempChannelPointsID": "", <- Never touch, it will get created and removed if your Twitch Channel supports Channelpoints
       "ChannelPointsCosts": 500, <- Change to your liking (the costs for this Redemption)
